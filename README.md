@@ -6,7 +6,7 @@ Bem-vindo ao repositório **Linux Guide**, um guia abrangente para aprender e do
 
 ## 📖 Índice
 
-- [Introdução ao Linux](/introdução-ao-linux)
+- [Introdução ao Linux](/introdução-ao-linux.md)
 - [Distribuições Linux](#distribuições-linux)
 - [Comandos Básicos](#comandos-básicos)
 - [Gerenciamento de Pacotes](#gerenciamento-de-pacotes)
